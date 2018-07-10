@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+/.vs
+/MyCppProj/.vs/MyCppProj/v15
+/MyCppProj/Debug
+/MyCppProj/MyCppProj/Debug
